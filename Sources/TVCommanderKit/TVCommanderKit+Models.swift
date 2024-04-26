@@ -227,7 +227,6 @@ public struct TVRemoteCommand: Codable {
             case pause = "KEY_PAUSE"
             case play = "KEY_PLAY"
             case navigationHome = "KEY_EXIT"
-            case guide = "KEY_GUIDE"
             case navigationReturnAkaBack = "KEY_RETURN"
             case mute = "KEY_MUTE"
             case number0 = "KEY_0"
